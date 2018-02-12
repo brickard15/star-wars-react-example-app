@@ -1,3 +1,5 @@
+#Star-Wars-React-Example-App
+
 This was created with the intent of being an easy to follow example of basic react app. 
 
 This demonstrates the basic ideas of react, react-redux, and redux-sagas.
